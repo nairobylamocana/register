@@ -4,7 +4,7 @@
         "email": "nairobylamocana@gmail.com"
     },
     "records": {
-        "CNAME": "alaric.ns.cloudflare.com"
-        "CNAME": "dalary.ns.cloudflare.com"
+        "NS": "alaric.ns.cloudflare.com"
+        "NS": "dalary.ns.cloudflare.com"
     }
 }
